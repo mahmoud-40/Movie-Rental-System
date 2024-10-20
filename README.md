@@ -32,7 +32,7 @@ The class diagram shows the system's classes and their relationships, including 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MovieRent.git
+   git clone https://github.com/yourusername/Movie-Rental-System.git
    ```
 2. Navigate to the project directory:
    ```bash
